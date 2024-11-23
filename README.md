@@ -108,6 +108,9 @@ HumanClick() {
 
 ### Пример скрипта с моими координатами:
 
+![image](https://github.com/user-attachments/assets/d1bf7755-615b-4566-8728-3f2e4e9633e3)
+
+
 
 
 ### Контакт
